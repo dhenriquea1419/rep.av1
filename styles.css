@@ -1,0 +1,124 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main-content{
+    display: flex;
+    height: 100%;
+    width: 80%;
+    align-items: center;
+    justify-content: center;
+    font-family: Arial, sans-serif;
+    font-size: 20;
+}
+.main-table{
+    display: flex;
+    height: fit-content;
+    width: 70%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.table-header{
+    display: flex;
+    width: 100%;
+    height: fit-content;
+    justify-content: space-evenly;
+    border: 1px solid black;
+    padding-left: 1%;
+    padding-right: 1%;
+}
+.fist-div{
+    display: flex;
+    width: 20%;
+    align-items: center;
+    justify-content: flex-start;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+.main-cell{
+    display: flex;
+    width: 10%;
+    align-items: center;
+    justify-content: center;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+.table-content{
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+    border: 1px solid black;
+    padding-left: 1%;
+    padding-right: 1%;
+}
+.table-num{
+    font-size: 10px;
+    padding: 2%;
+    display: flex;
+    width: fit-content;
+    height: 100%;
+    align-items: center;
+    font-size: 18px;
+}
+#num-1{
+    color: rgb(56, 236, 107);
+}
+#num-2{
+    color: rgb(56, 236, 107);
+}
+#num-3{
+    color: rgb(56, 236, 107);
+}
+#num-4{
+    color:rgb(56, 236, 107);
+}
+#num-5{
+    color: rgb(56, 236, 107);
+}
+#num-6{
+    color: rgb(56, 236, 107);
+}
+#num-7{
+    color: rgb(56, 236, 107);
+}
+#num-8{
+    color: rgb(179, 255, 0);
+}
+#num-9{
+    color: rgb(179, 255, 0);
+}
+#num-10{
+    color: rgb(179, 255, 0);
+}
+#num-11{
+    color: rgb(53, 228, 0);
+}
+#num-12{
+    color: rgb(53, 228, 0);
+}
+#num-13{
+    color: rgb(116, 105, 105);
+}
+#num-14{
+    color: rgb(116, 105, 105);
+}
+#num-15{
+    color: rgb(116, 105, 105);
+}
+#num-16{
+    color: #ff0000;
+}
+#num-17{
+    color: #ff0000;
+}
+#num-18{
+    color: #ff0000;
+}
+#num-19{
+    color: #ff0000;
+}
+#num-20{
+    color:#ff0000;
+}
